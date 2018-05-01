@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/bpcastillo/bpcastillo.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<a target="_blank" href="https://user-images.githubusercontent.com/38883644/39476149-7ca50a98-4d4a-11e8-873d-5a819578c4dd.JPG">"
+<a target="_blank" href="https://user-images.githubusercontent.com/38883644/39476149-7ca50a98-4d4a-11e8-873d-5a819578c4dd.JPG">
 <img width="350" src="https://user-images.githubusercontent.com/38883644/39476149-7ca50a98-4d4a-11e8-873d-5a819578c4dd.JPG"></a>
 
 
